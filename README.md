@@ -6,3 +6,5 @@ I created the whole user interface and most of the backend and data classes.
 
 Todo:
 Make it compile with the Marble project from KDE.
+
+This project is currently broken and not maintained.
